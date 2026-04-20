@@ -7,7 +7,7 @@
 7                return false;
 8            }
 9            left++;
-10            right--;
+10           right--;
 11        }
 12        return true;
 13    }
